@@ -4,25 +4,25 @@ The following document analyzes complaints filed to the Federal Communications C
 
 __Data Sources:__
 
-fcc_complaints_CA-2021.csv
-acs_data.csv
++ fcc_complaints_CA-2021.csv
++ acs_data.csv
 
 __Below is a list of variables that were of importance:__
 
 FCC Data:
 
-zip - the zip code where the complaint originated from.
-caller_id_number - the phone number from which the spam or robocall came from.
-date_of_issue - the date the incident occurred.
-time_of_issue - the time of day the incident occurred.
-method - how the spam or robocall connected with the individual.
++ zip - the zip code where the complaint originated from.
++ caller_id_number - the phone number from which the spam or robocall came from.
++ date_of_issue - the date the incident occurred.
++ time_of_issue - the time of day the incident occurred.
++ method - how the spam or robocall connected with the individual.
 
 ACS Data:
 
-name - contains the ZIP code areas.
-median_income - contains the median income in each ZIP code.
-median_age - contains the median age in each ZIP code.
-total_pop - contains the total population within each ZIP code.
++ name - contains the ZIP code areas.
++ median_income - contains the median income in each ZIP code.
++ median_age - contains the median age in each ZIP code.
++ total_pop - contains the total population within each ZIP code.
 
 __Link to analysis webpage:__
 
